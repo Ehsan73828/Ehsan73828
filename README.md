@@ -1,21 +1,35 @@
 # Hey, I'm Ehsan 👋
 
-🚀 **AI & Product Builder**
+🚀 **AI & Product Builder | Founder in the Making**
 
-I'm building **ConnectAI** — an AI-powered tool for businesses to manage and follow up with customers.
+I'm building **ConnectAI** — an AI-powered tool for businesses to manage customers and follow up more efficiently.
 
-## 🔨 What I'm Building
+## 🚧 Currently Building
 
-* 🤖 **ConnectAI** — AI-powered customer follow-up & management
-* 🧠 Exploring practical ways to use AI
-* 💻 Learning Python, Git & GitHub
-* 📈 Learning startups, business & digital marketing
+### 🤖 ConnectAI
 
-## 🎯 Currently Learning
+AI-powered customer follow-up & management for businesses.
 
-**AI • Product Building • Business • Marketing • GitHub**
+**Status:** 🚧 In Development
+
+## 🧠 What I'm Learning
+
+* 🤖 Practical AI & AI tools
+* 🐍 Python
+* 🐙 Git & GitHub
+* 🚀 Product building
+* 📈 Business & digital marketing
+
+## 🎯 My Focus
+
+**AI • Startups • Products • Business • Marketing**
 
 ## ⚡ My Philosophy
 
-> **Build. Learn. Ship. Repeat. 🚀**
+> **Build. Learn. Ship. Repeat.**
+
+---
+
+🚀 *Building the future, one project at a time.*
+
 
